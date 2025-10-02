@@ -5,7 +5,7 @@ An interactive dashboard built in Power BI to visualize and analyze coffee sales
 ## Features
 - 📥 Data sourced from Kaggle  
 - 🧹 Data cleaning and transformation using Power Query  
-- 📊 Interactive dashboard with slicers for region, product, and time  
+- 📊 Interactive dashboard with slicers for  product and time  
 - 📈 Trend analysis and performance breakdown by category
 
 ## Tools & Technologies
@@ -13,4 +13,4 @@ An interactive dashboard built in Power BI to visualize and analyze coffee sales
 - Power Query
 
 ## dashboard
-![dashboard](
+![dashboard](https://github.com/Ankita-Hegde02/coffee-sales-dashboard-powerbi/blob/main/Coffee_sales%20dashboard.png)
